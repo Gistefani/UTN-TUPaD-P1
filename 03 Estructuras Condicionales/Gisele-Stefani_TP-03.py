@@ -8,13 +8,13 @@
 ###deberá mostrar un mensaje en pantalla que diga “Es mayor de edad”.
 
 ##Defino la variable
-##mayor_edad=18
+mayor_edad=18
 ##solicito la edad del usuario
-##edad = int(input("Por favor ingrese su edad "))
+edad = int(input("Por favor ingrese su edad "))
 
 ##si la edad es mayor muestra el mensaje "es mayor de edad"
-##if edad>mayor_edad:
-##    print("es mayor de edad")
+if edad>mayor_edad:
+    print("es mayor de edad")
     
 
 ###EJERCICIO 2
